@@ -1,0 +1,502 @@
+[
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 0,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 7,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 7,
+    "clip_b_id": 4,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 17,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 18,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 13,
+    "clip_b_id": 1,
+    "winner_id": 1
+  },
+  {
+    "clip_a_id": 0,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 6,
+    "clip_b_id": 7,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 16,
+    "clip_b_id": 0,
+    "winner_id": 16
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 6,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 13,
+    "winner_id": 13
+  },
+  {
+    "clip_a_id": 7,
+    "clip_b_id": 14,
+    "winner_id": 7
+  },
+  {
+    "clip_a_id": 18,
+    "clip_b_id": 8,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 0,
+    "clip_b_id": 5,
+    "winner_id": 5
+  },
+  {
+    "clip_a_id": 13,
+    "clip_b_id": 10,
+    "winner_id": 13
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 4,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 6,
+    "clip_b_id": 10,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 2,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 12,
+    "clip_b_id": 3,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 11,
+    "clip_b_id": 19,
+    "winner_id": 11
+  },
+  {
+    "clip_a_id": 19,
+    "clip_b_id": 8,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 1,
+    "clip_b_id": 14,
+    "winner_id": 1
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 3,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 12,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 9,
+    "winner_id": 9
+  },
+  {
+    "clip_a_id": 19,
+    "clip_b_id": 11,
+    "winner_id": 11
+  },
+  {
+    "clip_a_id": 18,
+    "clip_b_id": 6,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 1,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 7,
+    "clip_b_id": 9,
+    "winner_id": 9
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 7,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 12,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 14,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 11,
+    "clip_b_id": 5,
+    "winner_id": 5
+  },
+  {
+    "clip_a_id": 11,
+    "clip_b_id": 19,
+    "winner_id": 11
+  },
+  {
+    "clip_a_id": 6,
+    "clip_b_id": 8,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 5,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 7,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 5,
+    "clip_b_id": 14,
+    "winner_id": 5
+  },
+  {
+    "clip_a_id": 12,
+    "clip_b_id": 8,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 7,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 10,
+    "clip_b_id": 1,
+    "winner_id": 1
+  },
+  {
+    "clip_a_id": 7,
+    "clip_b_id": 1,
+    "winner_id": 1
+  },
+  {
+    "clip_a_id": 10,
+    "clip_b_id": 12,
+    "winner_id": 12
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 6,
+    "clip_b_id": 18,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 10,
+    "clip_b_id": 6,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 15,
+    "clip_b_id": 12,
+    "winner_id": 12
+  },
+  {
+    "clip_a_id": 14,
+    "clip_b_id": 4,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 4,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 7,
+    "clip_b_id": 17,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 8,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 18,
+    "clip_b_id": 13,
+    "winner_id": 13
+  },
+  {
+    "clip_a_id": 18,
+    "clip_b_id": 12,
+    "winner_id": 12
+  },
+  {
+    "clip_a_id": 11,
+    "clip_b_id": 7,
+    "winner_id": 7
+  },
+  {
+    "clip_a_id": 4,
+    "clip_b_id": 16,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 15,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 1,
+    "clip_b_id": 3,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 4,
+    "clip_b_id": 5,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 13,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 12,
+    "clip_b_id": 19,
+    "winner_id": 12
+  },
+  {
+    "clip_a_id": 19,
+    "clip_b_id": 14,
+    "winner_id": 19
+  },
+  {
+    "clip_a_id": 16,
+    "clip_b_id": 8,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 0,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 17,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 10,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 9,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 13,
+    "clip_b_id": 5,
+    "winner_id": 13
+  },
+  {
+    "clip_a_id": 14,
+    "clip_b_id": 0,
+    "winner_id": 0
+  },
+  {
+    "clip_a_id": 8,
+    "clip_b_id": 16,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 5,
+    "clip_b_id": 16,
+    "winner_id": 16
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 9,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 16,
+    "clip_b_id": 6,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 4,
+    "clip_b_id": 11,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 5,
+    "clip_b_id": 17,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 16,
+    "clip_b_id": 0,
+    "winner_id": 16
+  },
+  {
+    "clip_a_id": 19,
+    "clip_b_id": 10,
+    "winner_id": 19
+  },
+  {
+    "clip_a_id": 15,
+    "clip_b_id": 0,
+    "winner_id": 0
+  },
+  {
+    "clip_a_id": 3,
+    "clip_b_id": 11,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 9,
+    "clip_b_id": 7,
+    "winner_id": 9
+  },
+  {
+    "clip_a_id": 1,
+    "clip_b_id": 7,
+    "winner_id": 1
+  },
+  {
+    "clip_a_id": 18,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 15,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 17,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 4,
+    "clip_b_id": 19,
+    "winner_id": 4
+  },
+  {
+    "clip_a_id": 15,
+    "clip_b_id": 17,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 5,
+    "clip_b_id": 8,
+    "winner_id": 8
+  },
+  {
+    "clip_a_id": 16,
+    "clip_b_id": 13,
+    "winner_id": 13
+  },
+  {
+    "clip_a_id": 6,
+    "clip_b_id": 17,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 6,
+    "clip_b_id": 9,
+    "winner_id": 6
+  },
+  {
+    "clip_a_id": 12,
+    "clip_b_id": 11,
+    "winner_id": 12
+  },
+  {
+    "clip_a_id": 14,
+    "clip_b_id": 16,
+    "winner_id": 16
+  },
+  {
+    "clip_a_id": 14,
+    "clip_b_id": 3,
+    "winner_id": 3
+  },
+  {
+    "clip_a_id": 7,
+    "clip_b_id": 19,
+    "winner_id": 7
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 10,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 0,
+    "clip_b_id": 18,
+    "winner_id": 0
+  },
+  {
+    "clip_a_id": 17,
+    "clip_b_id": 7,
+    "winner_id": 17
+  },
+  {
+    "clip_a_id": 18,
+    "clip_b_id": 7,
+    "winner_id": 7
+  },
+  {
+    "clip_a_id": 0,
+    "clip_b_id": 2,
+    "winner_id": 2
+  },
+  {
+    "clip_a_id": 1,
+    "clip_b_id": 7,
+    "winner_id": 1
+  },
+  {
+    "clip_a_id": 2,
+    "clip_b_id": 1,
+    "winner_id": 2
+  }
+]
