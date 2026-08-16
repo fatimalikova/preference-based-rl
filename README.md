@@ -134,6 +134,10 @@ python reward_model.py                # train reward model
 python train_with_learned_reward.py   # train + compare
 python plot_results.py                # generate figure
 ```
+## Companion project
+
+A web-based tool for collecting human preference labels, built with C#/ASP.NET Core:
+[**preference-rl-web**](https://github.com/fatimalikova/preference-rl-web)
 
 ## Acknowledgments
 
