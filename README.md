@@ -72,6 +72,29 @@ The two agents' performance is statistically indistinguishable given the overlap
 error bars — the agent trained purely on preference-derived reward reaches similar
 performance to one trained on the ground-truth reward.
 
+
+## Finding: a systematic human labeling bias
+
+Analyzing disagreements between human labels and the ground-truth reward ranking
+revealed a striking, non-random pattern: **the single best-performing clip by true
+reward (angle std = 0.094, more than 12x lower than any other clip) was rejected in
+every comparison it appeared in** (4/4), regardless of whether it was shown as option
+A or B — ruling out simple position bias.
+
+![Stillness bias](stillness_bias.png)
+
+This clip corresponds to near-perfect pole stabilization: the pendulum stays almost
+motionless near upright. It appears the human labeler (myself) associated visible
+movement with "active control" and stillness with passivity — even though stillness
+near the target is exactly what optimal control looks like here.
+
+This is a small-scale illustration of a real challenge in preference-based RL and
+RLHF more broadly: **visually salient behavior is not always reward-optimal behavior**,
+and human labelers can introduce systematic (not just random) bias into the reward
+signal. It's part of why methods like PEBBLE pair preference learning with careful
+segment selection and presentation.
+
+
 ## Limitations
 
 - **Scripted oracle, not human labels.** Preferences are currently generated from true
